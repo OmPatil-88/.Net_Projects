@@ -1,0 +1,1156 @@
+E:\project\simple\Infinity17\Infinity\bin\Debug\Infinity.exe.config
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.exe
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.xml
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.pdb
+E:\project\simple\Infinity17\Infinity\bin\Debug\Infinity.exe
+E:\project\simple\Infinity17\Infinity\bin\Debug\Infinity.pdb
+E:\project\simple\Infinity17\Infinity\bin\Debug\Infinity.xml
+E:\project\simple\Infinity17\Infinity\bin\Debug\Bunifu_UI_v1.4.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.Data.v15.2.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.Utils.v15.2.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\Guna.UI.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.Data.v15.2.xml
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.Utils.v15.2.xml
+E:\project\simple\Infinity17\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+E:\project\simple\Infinity17\Infinity\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.vbprojResolveAssemblyReference.cache
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_employee_manegement.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_other.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_services_manegement.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_table_manegement.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_costscheduling.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_package_manege.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_room_manegement.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_user_authentication.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uchotel_main.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uchotel_pkg.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uchotel_room_manegement.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_hotel_guest.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.Login.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.main_menu.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.Resources.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.ucadmin_main.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uc_report_main.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.ucr_delear_datail.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.ucr_kitchen.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.ucr_main.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.ucr_menu.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.ucr_stock.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.ucr_tbl.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uchome.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uchome_check_in.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uchome_check_out.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uchome_bill.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.uchotel_reservation.resources
+E:\project\simple\Infinity17\Infinity\obj\Debug\Infinity.vbproj.GenerateResource.Cache
+F:\Infinity17\Infinity\bin\Debug\Infinity.exe.config
+F:\Infinity17\Infinity\obj\Debug\Infinity.exe
+F:\Infinity17\Infinity\obj\Debug\Infinity.xml
+F:\Infinity17\Infinity\obj\Debug\Infinity.pdb
+F:\Infinity17\Infinity\obj\Debug\Infinity.vbprojResolveAssemblyReference.cache
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_employee_manegement.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_other.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_services_manegement.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_table_manegement.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_costscheduling.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_package_manege.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_room_manegement.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_admin_user_authentication.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uchotel_main.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uchotel_pkg.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uchotel_room_manegement.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_hotel_guest.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.Login.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.main_menu.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.Resources.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.ucadmin_main.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uc_report_main.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.ucr_delear_datail.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.ucr_kitchen.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.ucr_main.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.ucr_menu.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.ucr_stock.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.ucr_tbl.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uchome.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uchome_check_in.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uchome_check_out.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uchome_bill.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.uchotel_reservation.resources
+F:\Infinity17\Infinity\obj\Debug\Infinity.vbproj.GenerateResource.Cache
+F:\Infinity17\Infinity\bin\Debug\Infinity.exe
+F:\Infinity17\Infinity\bin\Debug\Infinity.pdb
+F:\Infinity17\Infinity\bin\Debug\Infinity.xml
+F:\Infinity17\Infinity\bin\Debug\Bunifu_UI_v1.4.dll
+F:\Infinity17\Infinity\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\Infinity17\Infinity\bin\Debug\DevExpress.Data.v15.2.dll
+F:\Infinity17\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\Infinity17\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+F:\Infinity17\Infinity\bin\Debug\DevExpress.Utils.v15.2.dll
+F:\Infinity17\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+F:\Infinity17\Infinity\bin\Debug\Guna.UI.dll
+F:\Infinity17\Infinity\bin\Debug\DevExpress.Data.v15.2.xml
+F:\Infinity17\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\Infinity17\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+F:\Infinity17\Infinity\bin\Debug\DevExpress.Utils.v15.2.xml
+F:\Infinity17\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+F:\Infinity17\Infinity\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Infinity17\Infinity\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Infinity17\Infinity\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Infinity17\Infinity\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Infinity17\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Infinity17\Infinity\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\Infinity.exe.config
+F:\Infinity\Infinity\bin\Debug\Infinity.exe
+F:\Infinity\Infinity\bin\Debug\Infinity.pdb
+F:\Infinity\Infinity\bin\Debug\Infinity.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Data.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Data.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+F:\Infinity\Infinity\obj\Debug\Infinity.vbprojResolveAssemblyReference.cache
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_admin_employee_manegement.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_admin_other.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_admin_services_manegement.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_admin_table_manegement.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_admin_costscheduling.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_admin_package_manege.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_admin_room_manegement.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_admin_user_authentication.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uchotel_main.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uchotel_pkg.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uchotel_room_manegement.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_hotel_guest.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.Login.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.main_menu.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.Resources.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.ucadmin_main.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_report_main.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.ucr_delear_datail.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.ucr_kitchen.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.ucr_main.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.ucr_menu.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.ucr_menu_icon.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.ucr_stock.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.ucr_tbl.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uchome.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uchome_check_in.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uchome_check_out.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uchome_bill.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uchotel_reservation.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.vbproj.GenerateResource.Cache
+F:\Infinity\Infinity\obj\Debug\Infinity.exe.licenses
+F:\Infinity\Infinity\obj\Debug\Infinity.exe
+F:\Infinity\Infinity\obj\Debug\Infinity.xml
+F:\Infinity\Infinity\obj\Debug\Infinity.pdb
+F:\Infinity\Infinity\obj\Debug\Infinity.uchotel_pkg_icon.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_home_Extra_services.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.uc_button.resources
+F:\Infinity\Infinity\bin\Debug\DevExpress.CodeParser.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Office.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraBars.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Xpo.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Office.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraBars.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Xpo.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Extensions.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Extensions.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\Infinity\Infinity\obj\Debug\Infinity.report_delear_payment_slip.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.report_hotal_bill.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.hotel_bill_rpt.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.stock_update_rpt.resources
+F:\Infinity\Infinity\obj\Debug\Infinity.report_Stock_records.resources
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.dll
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+F:\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\Infinity\Infinity\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\Infinity\Infinity\obj\Debug\Infinity.Stock_details_rpt.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\Infinity.exe.config
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\Infinity.exe
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\Infinity.pdb
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\Infinity.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.CodeParser.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Data.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Office.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Extensions.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Xpo.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraBars.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Data.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Office.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Extensions.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Xpo.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraBars.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_employee_manegement.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_other.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_services_manegement.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_table_manegement.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_costscheduling.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_package_manege.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_room_manegement.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_user_authentication.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_button.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_home_Extra_services.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_main.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_pkg.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_pkg_icon.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_room_manegement.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_hotel_guest.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Login.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.main_menu.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Resources.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucadmin_main.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_delear_payment_slip.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Stock_report_rpt.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_Stock_records.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_report_main.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_delear_datail.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_kitchen.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_main.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_menu.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_menu_icon.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_stock.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_tbl.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchome.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchome_check_in.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchome_check_out.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchome_bill.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_reservation.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.vbproj.GenerateResource.Cache
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.exe.licenses
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.exe
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.pdb
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.vbprojResolveAssemblyReference.cache
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.dealer_rpt.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_hotal_bill.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_restarunt.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.resto_bill_rpt.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.ExpressApp.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Persistent.Base.v15.2.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.ExpressApp.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Persistent.Base.v15.2.xml
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.ExpressApp.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.ExpressApp.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.ExpressApp.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.ExpressApp.v15.2.resources.dll
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Resto_bill.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_final_checkin_out.resources
+F:\New folder\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Hotel_bill_rpt.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\Infinity.exe.config
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.exe
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.pdb
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\Infinity.exe
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\Infinity.pdb
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\Infinity.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.CodeParser.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Data.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.ExpressApp.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Office.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Persistent.Base.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Extensions.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Xpo.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraBars.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Data.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.ExpressApp.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Office.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Persistent.Base.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Extensions.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Xpo.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraBars.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.ExpressApp.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.ExpressApp.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.ExpressApp.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.ExpressApp.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.vbprojResolveAssemblyReference.cache
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_employee_manegement.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_other.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_services_manegement.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_table_manegement.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_costscheduling.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_package_manege.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_room_manegement.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_admin_user_authentication.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_button.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_home_Extra_services.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_main.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_pkg.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_pkg_icon.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_room_manegement.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_hotel_guest.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Login.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.main_menu.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Resources.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucadmin_main.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_delear_payment_slip.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_final_checkin_out.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_hotal_bill.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_restarunt.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.dealer_rpt.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Hotel_bill_rpt.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.resto_bill_rpt.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Stock_report_rpt.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.report_Stock_records.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uc_report_main.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_delear_datail.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_kitchen.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_main.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_menu.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_menu_icon.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_stock.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.ucr_tbl.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchome.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchome_check_in.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchome_check_out.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchome_bill.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.uchotel_reservation.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Resto_bill.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.vbproj.GenerateResource.Cache
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.exe.licenses
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Hotel_bill.resources
+F:\New folder\Infinity (2)\Infinity (3)\Infinity\Infinity\obj\Debug\Infinity.Reservation_Rpt.resources
+D:\.Net Projects\Infinity\Infinity\bin\Debug\Infinity.exe.config
+D:\.Net Projects\Infinity\Infinity\bin\Debug\Infinity.exe
+D:\.Net Projects\Infinity\Infinity\bin\Debug\Infinity.pdb
+D:\.Net Projects\Infinity\Infinity\bin\Debug\Infinity.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Data.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.ExpressApp.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Persistent.Base.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Snap.v15.2.Extensions.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Xpo.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraRichEdit.v15.2.Extensions.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.ExpressApp.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.ExpressApp.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.ExpressApp.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.ExpressApp.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Snap.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Snap.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Snap.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Snap.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.Extensions.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraScheduler.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.vbproj.AssemblyReference.cache
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_admin_employee_manegement.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_admin_other.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_admin_services_manegement.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_admin_table_manegement.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_admin_costscheduling.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_admin_package_manege.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_admin_room_manegement.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_admin_user_authentication.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_button.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_home_Extra_services.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchotel_main.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchotel_pkg.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchotel_pkg_icon.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchotel_room_manegement.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_hotel_guest.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.Login.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.main_menu.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.Resources.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.ucadmin_main.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.Hotel_bill.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.report_delear_payment_slip.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.report_final_checkin_out.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.report_hotal_bill.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.report_restarunt.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.dealer_rpt.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.Hotel_bill_rpt.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.Reservation_Rpt.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.resto_bill_rpt.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.Stock_report_rpt.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.report_Stock_records.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uc_report_main.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.ucr_delear_datail.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.ucr_kitchen.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.ucr_main.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.ucr_menu.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.ucr_menu_icon.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.ucr_stock.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.ucr_tbl.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchome.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchome_check_in.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchome_check_out.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchome_bill.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.uchotel_reservation.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.Resto_bill.resources
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.vbproj.GenerateResource.cache
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.exe.licenses
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.vbproj.CoreCompileInputs.cache
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.vbproj.CopyComplete
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.exe
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.xml
+D:\.Net Projects\Infinity\Infinity\obj\Debug\Infinity.pdb

@@ -1,0 +1,9 @@
+E:\project\calculater\calculater\bin\Debug\calculater.exe
+E:\project\calculater\calculater\bin\Debug\calculater.pdb
+E:\project\calculater\calculater\bin\Debug\calculater.xml
+E:\project\calculater\calculater\obj\x86\Debug\calculater.Resources.resources
+E:\project\calculater\calculater\obj\x86\Debug\calculater.vbproj.GenerateResource.Cache
+E:\project\calculater\calculater\obj\x86\Debug\calculater.exe
+E:\project\calculater\calculater\obj\x86\Debug\calculater.xml
+E:\project\calculater\calculater\obj\x86\Debug\calculater.pdb
+E:\project\calculater\calculater\obj\x86\Debug\calculater.CALForm1.resources

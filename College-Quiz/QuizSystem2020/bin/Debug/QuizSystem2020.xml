@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QuizSystem2020
+</name>
+</assembly>
+<members>
+<member name="T:QuizSystem2020.QuizDb2020DataSet.Student_Final_dataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QuizSystem2020.QuizDb2020DataSet.Student_Final_dataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QuizSystem2020.QuizDb2020DataSet.Student_Final_dataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QuizSystem2020.QuizDb2020DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QuizSystem2020.QuizDb2020DataSetTableAdapters.Student_Final_dataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QuizSystem2020.QuizDb2020DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(QuizSystem2020.QuizDb2020DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QuizSystem2020.QuizDb2020DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(QuizSystem2020.QuizDb2020DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QuizSystem2020.QuizDb2020DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(QuizSystem2020.QuizDb2020DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QuizSystem2020.QuizDb2020DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QuizSystem2020.QuizDb2020DataSetTableAdapters.TableAdapterManager.UpdateAll(QuizSystem2020.QuizDb2020DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QuizSystem2020.QuizDb2020DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QuizSystem2020.QuizDb2020DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QuizSystem2020.QuizDb2020DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Chart_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Chart_32x321">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Chart_32x322">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Chart_32x323">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.EditDataSource_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Home_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Info_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Next_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.Remove_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.SelectTable_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.SelectTable_16x161">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QuizSystem2020.My.Resources.Resources.TimeLineView_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:QuizSystem2020.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

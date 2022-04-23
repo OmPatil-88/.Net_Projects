@@ -1,0 +1,11 @@
+E:\project\login\login\bin\Debug\login.exe
+E:\project\login\login\bin\Debug\login.pdb
+E:\project\login\login\bin\Debug\login.xml
+E:\project\login\login\obj\x86\Debug\login.frm_login.resources
+E:\project\login\login\obj\x86\Debug\login.Resources.resources
+E:\project\login\login\obj\x86\Debug\login.vbproj.GenerateResource.Cache
+E:\project\login\login\obj\x86\Debug\login.exe
+E:\project\login\login\obj\x86\Debug\login.xml
+E:\project\login\login\obj\x86\Debug\login.pdb
+E:\project\login\login\obj\x86\Debug\login.frm_add_student.resources
+E:\project\login\login\obj\x86\Debug\login.frm_stud_info.resources

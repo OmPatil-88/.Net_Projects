@@ -1,0 +1,610 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{79FD999F-2737-4BC3-8597-FFB7B1D1C7AF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Infinity.My.MyApplication</StartupObject>
+    <RootNamespace>Infinity</RootNamespace>
+    <AssemblyName>Infinity</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Infinity.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Infinity.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.4">
+      <HintPath>E:\vs2015\Bunifu_UI_v1.4.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>E:\vs2015\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v15.2.UI, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.ExpressApp.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Persistent.Base.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Snap.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Snap.v15.2.Extensions, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.2.UI, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v15.2.Extensions, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v15.2.UI, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v15.2.Wizard, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v15.2.Extensions, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.2.Extensions, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v15.2.Core, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v15.2, Version=15.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Guna.UI">
+      <HintPath>E:\vs2015\Guna.UI-Framework-Lib-master\Example\Example\bin\Debug\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administration\uc_admin_employee_manegement.Designer.vb">
+      <DependentUpon>uc_admin_employee_manegement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\uc_admin_employee_manegement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administration\uc_admin_other.Designer.vb">
+      <DependentUpon>uc_admin_other.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\uc_admin_other.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administration\uc_admin_services_manegement.Designer.vb">
+      <DependentUpon>uc_admin_services_manegement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\uc_admin_services_manegement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administration\uc_admin_table_manegement.Designer.vb">
+      <DependentUpon>uc_admin_table_manegement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\uc_admin_table_manegement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administration\uc_admin_costscheduling.Designer.vb">
+      <DependentUpon>uc_admin_costscheduling.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\uc_admin_costscheduling.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administration\uc_admin_package_manege.Designer.vb">
+      <DependentUpon>uc_admin_package_manege.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\uc_admin_package_manege.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administration\uc_admin_room_manegement.Designer.vb">
+      <DependentUpon>uc_admin_room_manegement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\uc_admin_room_manegement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Administration\uc_admin_user_authentication.Designer.vb">
+      <DependentUpon>uc_admin_user_authentication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\uc_admin_user_authentication.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="connection.vb" />
+    <Compile Include="global_class.vb" />
+    <Compile Include="Report Dataset\Stock.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stock.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report Dataset\Stock.vb">
+      <DependentUpon>Stock.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel_bill.Designer.vb">
+      <DependentUpon>Hotel_bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel_bill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\report_delear_payment_slip.Designer.vb">
+      <DependentUpon>report_delear_payment_slip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_delear_payment_slip.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home\uc_button.Designer.vb">
+      <DependentUpon>uc_button.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home\uc_button.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home\uc_home_Extra_services.Designer.vb">
+      <DependentUpon>uc_home_Extra_services.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home\uc_home_Extra_services.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Hotel\uchotel_main.Designer.vb">
+      <DependentUpon>uchotel_main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel\uchotel_main.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Hotel\uchotel_pkg.Designer.vb">
+      <DependentUpon>uchotel_pkg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel\uchotel_pkg.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Hotel\uchotel_pkg_icon.Designer.vb">
+      <DependentUpon>uchotel_pkg_icon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel\uchotel_pkg_icon.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Hotel\uchotel_room_manegement.Designer.vb">
+      <DependentUpon>uchotel_room_manegement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel\uchotel_room_manegement.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Hotel\uc_hotel_guest.Designer.vb">
+      <DependentUpon>uc_hotel_guest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel\uc_hotel_guest.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_menu.Designer.vb">
+      <DependentUpon>main_menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="main_menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Administration\ucadmin_main.Designer.vb">
+      <DependentUpon>ucadmin_main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administration\ucadmin_main.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\report_restarunt.Designer.vb">
+      <DependentUpon>report_restarunt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_restarunt.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\report_rpt\dealer_rpt.Designer.vb">
+      <DependentUpon>dealer_rpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_rpt\dealer_rpt.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\report_rpt\Hotel_bill_rpt.Designer.vb">
+      <DependentUpon>Hotel_bill_rpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_rpt\Hotel_bill_rpt.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\report_rpt\Reservation_Rpt.Designer.vb">
+      <DependentUpon>Reservation_Rpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_rpt\Reservation_Rpt.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\report_rpt\resto_bill_rpt.Designer.vb">
+      <DependentUpon>resto_bill_rpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_rpt\resto_bill_rpt.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\report_rpt\Stock_report_rpt.Designer.vb">
+      <DependentUpon>Stock_report_rpt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_rpt\Stock_report_rpt.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\report_Stock_records.Designer.vb">
+      <DependentUpon>report_Stock_records.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_Stock_records.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\uc_report_main.Designer.vb">
+      <DependentUpon>uc_report_main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\uc_report_main.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\report_final_checkin_out.Designer.vb">
+      <DependentUpon>report_final_checkin_out.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_final_checkin_out.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\report_hotal_bill.Designer.vb">
+      <DependentUpon>report_hotal_bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\report_hotal_bill.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resararunt\ucr_delear_datail.Designer.vb">
+      <DependentUpon>ucr_delear_datail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resararunt\ucr_delear_datail.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resararunt\ucr_kitchen.Designer.vb">
+      <DependentUpon>ucr_kitchen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resararunt\ucr_kitchen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resararunt\ucr_main.Designer.vb">
+      <DependentUpon>ucr_main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resararunt\ucr_main.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resararunt\ucr_menu.Designer.vb">
+      <DependentUpon>ucr_menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resararunt\ucr_menu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resararunt\ucr_menu_icon.Designer.vb">
+      <DependentUpon>ucr_menu_icon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resararunt\ucr_menu_icon.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resararunt\ucr_stock.Designer.vb">
+      <DependentUpon>ucr_stock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resararunt\ucr_stock.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resararunt\ucr_tbl.Designer.vb">
+      <DependentUpon>ucr_tbl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resararunt\ucr_tbl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home\uchome.Designer.vb">
+      <DependentUpon>uchome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home\uchome.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home\uchome_check_in.Designer.vb">
+      <DependentUpon>uchome_check_in.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home\uchome_check_in.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home\uchome_check_out.Designer.vb">
+      <DependentUpon>uchome_check_out.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home\uchome_check_out.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home\uchome_bill.Designer.vb">
+      <DependentUpon>uchome_bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Home\uchome_bill.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Hotel\uchotel_reservation.Designer.vb">
+      <DependentUpon>uchotel_reservation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hotel\uchotel_reservation.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Resto_bill.Designer.vb">
+      <DependentUpon>Resto_bill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Resto_bill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administration\uc_admin_employee_manegement.resx">
+      <DependentUpon>uc_admin_employee_manegement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\uc_admin_other.resx">
+      <DependentUpon>uc_admin_other.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\uc_admin_services_manegement.resx">
+      <DependentUpon>uc_admin_services_manegement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\uc_admin_table_manegement.resx">
+      <DependentUpon>uc_admin_table_manegement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\uc_admin_costscheduling.resx">
+      <DependentUpon>uc_admin_costscheduling.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\uc_admin_package_manege.resx">
+      <DependentUpon>uc_admin_package_manege.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\uc_admin_room_manegement.resx">
+      <DependentUpon>uc_admin_room_manegement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\uc_admin_user_authentication.resx">
+      <DependentUpon>uc_admin_user_authentication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home\uc_button.resx">
+      <DependentUpon>uc_button.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home\uc_home_Extra_services.resx">
+      <DependentUpon>uc_home_Extra_services.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hotel\uchotel_main.resx">
+      <DependentUpon>uchotel_main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hotel\uchotel_pkg.resx">
+      <DependentUpon>uchotel_pkg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hotel\uchotel_pkg_icon.resx">
+      <DependentUpon>uchotel_pkg_icon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hotel\uchotel_room_manegement.resx">
+      <DependentUpon>uchotel_room_manegement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hotel\uc_hotel_guest.resx">
+      <DependentUpon>uc_hotel_guest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_menu.resx">
+      <DependentUpon>main_menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administration\ucadmin_main.resx">
+      <DependentUpon>ucadmin_main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hotel_bill.resx">
+      <DependentUpon>Hotel_bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_delear_payment_slip.resx">
+      <DependentUpon>report_delear_payment_slip.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_final_checkin_out.resx">
+      <DependentUpon>report_final_checkin_out.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_hotal_bill.resx">
+      <DependentUpon>report_hotal_bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_restarunt.resx">
+      <DependentUpon>report_restarunt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_rpt\dealer_rpt.resx">
+      <DependentUpon>dealer_rpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_rpt\Hotel_bill_rpt.resx">
+      <DependentUpon>Hotel_bill_rpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_rpt\Reservation_Rpt.resx">
+      <DependentUpon>Reservation_Rpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_rpt\resto_bill_rpt.resx">
+      <DependentUpon>resto_bill_rpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_rpt\Stock_report_rpt.resx">
+      <DependentUpon>Stock_report_rpt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\report_Stock_records.resx">
+      <DependentUpon>report_Stock_records.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\uc_report_main.resx">
+      <DependentUpon>uc_report_main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resararunt\ucr_delear_datail.resx">
+      <DependentUpon>ucr_delear_datail.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resararunt\ucr_kitchen.resx">
+      <DependentUpon>ucr_kitchen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resararunt\ucr_main.resx">
+      <DependentUpon>ucr_main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resararunt\ucr_menu.resx">
+      <DependentUpon>ucr_menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resararunt\ucr_menu_icon.resx">
+      <DependentUpon>ucr_menu_icon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resararunt\ucr_stock.resx">
+      <DependentUpon>ucr_stock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resararunt\ucr_tbl.resx">
+      <DependentUpon>ucr_tbl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home\uchome.resx">
+      <DependentUpon>uchome.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home\uchome_check_in.resx">
+      <DependentUpon>uchome_check_in.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home\uchome_check_out.resx">
+      <DependentUpon>uchome_check_out.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home\uchome_bill.resx">
+      <DependentUpon>uchome_bill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hotel\uchotel_reservation.resx">
+      <DependentUpon>uchotel_reservation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resto_bill.resx">
+      <DependentUpon>Resto_bill.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Administration\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Report Dataset\Stock.xsc">
+      <DependentUpon>Stock.xsd</DependentUpon>
+    </None>
+    <None Include="Report Dataset\Stock.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Stock.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Report Dataset\Stock.xss">
+      <DependentUpon>Stock.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Reset_32x32.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

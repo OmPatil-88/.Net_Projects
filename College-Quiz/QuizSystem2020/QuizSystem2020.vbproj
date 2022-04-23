@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DD53C6D7-734A-4E6E-A5FF-8DCAD3A8FECD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>QuizSystem2020.My.MyApplication</StartupObject>
+    <RootNamespace>QuizSystem2020</RootNamespace>
+    <AssemblyName>QuizSystem2020</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QuizSystem2020.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QuizSystem2020.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAnimated.Designer.vb">
+      <DependentUpon>frmAnimated.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAnimated.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHScore.Designer.vb">
+      <DependentUpon>frmHScore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmHScore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImage.Designer.vb">
+      <DependentUpon>frmImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMedia.Designer.vb">
+      <DependentUpon>frmMedia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMedia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuizStart.Designer.vb">
+      <DependentUpon>frmQuizStart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuizStart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTeamEntry.Designer.vb">
+      <DependentUpon>frmTeamEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTeamEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVscore.Designer.vb">
+      <DependentUpon>frmVscore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmVscore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_final_result.Designer.vb">
+      <DependentUpon>frm_final_result.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_final_result.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_rules.Designer.vb">
+      <DependentUpon>frm_rules.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frm_rules.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Global_functin_file.vb" />
+    <Compile Include="Main_menu.Designer.vb">
+      <DependentUpon>Main_menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main_menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QuizDb2020DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuizDb2020DataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAnimated.resx">
+      <DependentUpon>frmAnimated.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHScore.resx">
+      <DependentUpon>frmHScore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImage.resx">
+      <DependentUpon>frmImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMedia.resx">
+      <DependentUpon>frmMedia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuizStart.resx">
+      <DependentUpon>frmQuizStart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTeamEntry.resx">
+      <DependentUpon>frmTeamEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVscore.resx">
+      <DependentUpon>frmVscore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_final_result.resx">
+      <DependentUpon>frm_final_result.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_rules.resx">
+      <DependentUpon>frm_rules.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_menu.resx">
+      <DependentUpon>Main_menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QuizDb2020DataSet.xsc">
+      <DependentUpon>QuizDb2020DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuizDb2020DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuizDb2020DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuizDb2020DataSet.xss">
+      <DependentUpon>QuizDb2020DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Chart_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SelectTable_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart_32x322.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EditDataSource_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Info_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TimeLineView_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chart_32x323.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SelectTable_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="QuizDb2020.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
